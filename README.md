@@ -32,4 +32,4 @@ If you’d like to discuss any of the examples or share your thoughts on Python 
 
 - **Name**: Osama Hatem
 - **Email**: osamahatem282@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/osama-hatim))
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/osama-hatim)
