@@ -28,6 +28,11 @@ This repository showcases various Python scripts that I developed as part of my 
 - **File**: `ch 6.py`
 - **Overview**: This script explores Python dictionaries, showing how to store and manage key-value pairs. The examples include basic operations, nesting, and practical uses of dictionaries in programming.
 
+### Chapter 7: User Input and while Loops
+
+- **File**: `ch 7.py`
+- **Overview**: This file focuses on handling user input and creating loops with `while`. The examples demonstrate how to interact with users, validate input, and create loops that continue running based on specific conditions.
+
 ## Purpose
 
 The primary goal of this repository is to document my learning process and share the exercises and examples that I’ve developed. While some ideas are inspired by the "Python Crash Course" book, the majority of the content is original and serves as a demonstration of my growth as a Python programmer.
