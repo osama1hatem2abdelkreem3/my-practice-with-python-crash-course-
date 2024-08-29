@@ -38,6 +38,11 @@ This repository showcases various Python scripts that I developed as part of my 
 - **File**: `ch 8.py`
 - **Overview**: This chapter introduces functions, covering how to define functions, pass arguments, and return values. The examples demonstrate the power and flexibility of functions in Python, showing how they can be used to organize and reuse code effectively.
 
+### Chapter 9: Classes
+
+- **File**: `ch 9.py`
+- **Overview**: This file delves into object-oriented programming in Python, focusing on classes and instances. The examples illustrate how to define classes, create objects, and utilize methods to encapsulate functionality.
+
 ## Purpose
 
 The primary goal of this repository is to document my learning process and share the exercises and examples that I’ve developed. While some ideas are inspired by the "Python Crash Course" book, the majority of the content is original and serves as a demonstration of my growth as a Python programmer.
